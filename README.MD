@@ -1,7 +1,7 @@
 ## 📒 Projeto de Podcast 
 A Sociedade dos Testes: Mistérios do Rest Assured
 ## 📒 Descrição
-Este um podcast tem como objetivo apresentar a ferramenta Rest Assured para criação de testes de integração em JAVA.
+Este podcast tem como objetivo apresentar a ferramenta Rest Assured para criação de testes de integração em JAVA.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa ChatGPT para roteirização;
